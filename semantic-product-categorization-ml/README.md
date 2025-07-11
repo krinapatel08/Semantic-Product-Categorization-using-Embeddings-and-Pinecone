@@ -44,23 +44,25 @@ Closer vectors = similar meaning.
 ### ✅ Step 6: Return the **top 3 recommended categories**  
 
 ---
-
 ## 🧪 Sample Demo Flow
 
-```text
-Input Product Name: "Samsung 55-inch 4K LED Smart TV"
+**Input Product Name:**  
+`Samsung 55-inch 4K LED Smart TV`
 
-→ Top 3 Suggested Categories:
-1. Electronics > Televisions
-2. Home Appliances > Smart Devices
-3. Consumer Goods > Display Screens
+**→ Top 3 Suggested Categories:**
+1. **Electronics > Televisions**  
+2. **Home Appliances > Smart Devices**  
+3. **Consumer Goods > Display Screens**
+
+---
 
 ## 👩‍💻 Author
 
 **Krina Patel**  
 AI/ML Engineer | Data Science | NLP | ML Pipelines  
-💼 [LinkedIn](https://www.linkedin.com/) &nbsp; 🌐 [Portfolio](https://your-portfolio-link.com)
+💼 [LinkedIn](https://www.linkedin.com/in/krinap08/)  
+
 
 ---
 
-⭐ If you like this project, consider giving it a ⭐ and following for more AI/ML projects!
+⭐ *If you like this project, consider giving it a ⭐ and following for more AI/ML projects!*
